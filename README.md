@@ -1,2 +1,23 @@
 # FaceAttendance
 Face Recognition Attendance System using Python and OpenCV
+# Face Attendance System
+
+A Face Recognition Attendance System using Python and OpenCV.
+
+## Features
+- Face Detection
+- Attendance Marking
+- Real-time Recognition
+
+## Technologies Used
+- Python
+- OpenCV
+- face_recognition
+
+## How to Run
+1. Install Python
+2. Install requirements
+3. Run main.py
+
+## Author
+DEV SOLANKI
